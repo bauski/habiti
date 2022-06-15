@@ -1,3 +1,27 @@
+NOTES
+Docker for local mysql db
+    Figure out how to keep persistent data in local
+    https://betterprogramming.pub/setting-up-mysql-database-in-a-docker-d6c69a3e9afe
+    https://developer.ibm.com/tutorials/docker-dev-db/
+Folder habit-server for connecting to mysql db
+Folder habit-client for frontend
+
+https://www.mongodb.com/languages/mern-stack-tutorial
+
+
+DATA
 June 8
 5 squats
 5 ball abductors
+
+June 9
+5 squats
+6 ball abductors
+
+June 10
+5 squats
+6 ball abductors
+
+June 11
+6 squats
+6 ball abductors
